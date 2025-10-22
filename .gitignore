@@ -33,6 +33,9 @@
 
 # Visual Studio cache directory
 .vs/
+.vscode/
+.vscode
+# ".vscode" - 비주얼 스튜디오 코드 기본 설정들을 무시하도록 지시합니다.
 
 # Gradle cache directory
 .gradle/
